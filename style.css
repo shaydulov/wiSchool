@@ -20,7 +20,7 @@ button{
 }
 
 .container{
-    width: 1336px;
+    width: 1240px;
     margin: 0 auto;
 }
 
@@ -107,7 +107,7 @@ h1 span{
 }
 
 .h_right{
-    max-width: 687px;
+    max-width: 591px;
     z-index: -1;
 }
 
@@ -165,14 +165,10 @@ h1 span{
     justify-content: space-between;
 }
 
-.categories_imgs img{
-    width: 300px;
-}
-
 .arrows{
     display: flex;
     justify-content: space-between;
-    transform: translateY(-300px);
+    transform: translateY(-267px);
     padding: 0 24px;
     margin-bottom: 50px;
 }
@@ -379,7 +375,7 @@ footer{
 
 .f_right{
     display: flex;
-    gap: 120px;
+    gap: 100px;
 }
 
 .f_ul{
